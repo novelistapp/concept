@@ -35,3 +35,5 @@ Following is a quick and dirty spec for what novelist will be
 The project is currently not yet in development. This is a (curated) list of open questions regarding the project.
 
 - [ ] Choosing a storage format (#1)
+
+![First drawing of the UI](ui-drawing.jpg)
